@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
-directory = 'first'
+directory = 'single'
 if os.path.exists(directory):
     pass
 else:
